@@ -1,0 +1,7 @@
+https://nullpo24.hatenablog.com/entry/2021/05/15/215427
+
+仮想環境に入るとき
+source mp_env/bin/activate
+
+抜けるとき
+deactivate
